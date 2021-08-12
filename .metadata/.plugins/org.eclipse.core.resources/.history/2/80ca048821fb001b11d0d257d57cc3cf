@@ -1,0 +1,36 @@
+/*
+ * Programación Interactiva
+ * Autor: David Alberto Guzmán - 201942789
+ * MiniProyecto 1: Atento y Rapido.
+ */
+
+package atentoYRapido;
+
+import java.awt.EventQueue;
+
+// TODO: Auto-generated Javadoc
+/**
+ * The Class PrincipalAtentoYRapido.
+ */
+public class PrincipalAtentoYRapido {
+
+	/**
+	 * The main method. Es el metodo principal, el que se ejecuta al inicio del programa.
+	 *
+	 * @param args the arguments
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		EventQueue.invokeLater(new Runnable() {
+			@Override
+			public void run() {
+				// TODO Auto-generated method stub
+				@SuppressWarnings("unused")
+				InstructionsGUI intro = new InstructionsGUI();
+			}
+		});
+		
+	}
+
+}

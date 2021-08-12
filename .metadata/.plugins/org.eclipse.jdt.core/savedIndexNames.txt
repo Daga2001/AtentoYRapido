@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\David\Desktop\programas_Programacion\MiniProyecto_1_AtentoYRapido\.metadata\.plugins\org.eclipse.jdt.core
+852542492.index
+419211954.index
+421644442.index
